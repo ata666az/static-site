@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:11:36.024Z",
+  "generatedAt": "2026-10-16T04:07:38.502Z",
   "backendHost": "cf.bebas11.workers.dev",
   "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
   "totalProxies": 200,
@@ -1991,6 +1991,51 @@
     },
     {
       "index": 45,
+      "proxyIP": "47.254.206.196",
+      "proxyPort": "443",
+      "country": "MY",
+      "org": "Alibaba Cloud  MY",
+      "configs": [
+        {
+          "protocol": "trojan",
+          "port": 443,
+          "tls": true,
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F47.254.206.196-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Alibaba%20Cloud%20%20MY%20WS%20TLS"
+        },
+        {
+          "protocol": "vless",
+          "port": 443,
+          "tls": true,
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F47.254.206.196-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Alibaba%20Cloud%20%20MY%20WS%20TLS"
+        },
+        {
+          "protocol": "ss",
+          "port": 443,
+          "tls": true,
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F47.254.206.196-443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F47.254.206.196-443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Alibaba%20Cloud%20%20MY%20WS%20TLS"
+        },
+        {
+          "protocol": "trojan",
+          "port": 80,
+          "tls": false,
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F47.254.206.196-443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Alibaba%20Cloud%20%20MY%20WS%20NTLS"
+        },
+        {
+          "protocol": "vless",
+          "port": 80,
+          "tls": false,
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F47.254.206.196-443&security=none&sni=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Alibaba%20Cloud%20%20MY%20WS%20NTLS"
+        },
+        {
+          "protocol": "ss",
+          "port": 80,
+          "tls": false,
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F47.254.206.196-443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F47.254.206.196-443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B2%F0%9F%87%BE%20MY%20Alibaba%20Cloud%20%20MY%20WS%20NTLS"
+        }
+      ]
+    },
+    {
+      "index": 46,
       "proxyIP": "56.68.92.77",
       "proxyPort": "443",
       "country": "MY",
@@ -2035,7 +2080,7 @@
       ]
     },
     {
-      "index": 46,
+      "index": 47,
       "proxyIP": "58.27.117.24",
       "proxyPort": "443",
       "country": "MY",
@@ -2080,7 +2125,7 @@
       ]
     },
     {
-      "index": 47,
+      "index": 48,
       "proxyIP": "60.53.230.161",
       "proxyPort": "443",
       "country": "MY",
@@ -2125,7 +2170,7 @@
       ]
     },
     {
-      "index": 48,
+      "index": 49,
       "proxyIP": "72.60.235.49",
       "proxyPort": "8443",
       "country": "MY",
@@ -2170,7 +2215,7 @@
       ]
     },
     {
-      "index": 49,
+      "index": 50,
       "proxyIP": "72.60.236.128",
       "proxyPort": "8443",
       "country": "MY",
@@ -2215,7 +2260,7 @@
       ]
     },
     {
-      "index": 50,
+      "index": 51,
       "proxyIP": "76.13.188.13",
       "proxyPort": "8443",
       "country": "MY",
@@ -2260,7 +2305,7 @@
       ]
     },
     {
-      "index": 51,
+      "index": 52,
       "proxyIP": "76.13.218.192",
       "proxyPort": "8443",
       "country": "MY",
@@ -2305,7 +2350,7 @@
       ]
     },
     {
-      "index": 52,
+      "index": 53,
       "proxyIP": "87.76.160.237",
       "proxyPort": "8443",
       "country": "MY",
@@ -2350,7 +2395,7 @@
       ]
     },
     {
-      "index": 53,
+      "index": 54,
       "proxyIP": "101.32.169.108",
       "proxyPort": "443",
       "country": "SG",
@@ -2391,51 +2436,6 @@
           "port": 80,
           "tls": false,
           "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F101.32.169.108-443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F101.32.169.108-443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20ACEVILLE%20PTELTD%20WS%20NTLS"
-        }
-      ]
-    },
-    {
-      "index": 54,
-      "proxyIP": "103.119.218.157",
-      "proxyPort": "8443",
-      "country": "SG",
-      "org": "Hawk Host Inc",
-      "configs": [
-        {
-          "protocol": "trojan",
-          "port": 443,
-          "tls": true,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20TLS"
-        },
-        {
-          "protocol": "vless",
-          "port": 443,
-          "tls": true,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20TLS"
-        },
-        {
-          "protocol": "ss",
-          "port": 443,
-          "tls": true,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F103.119.218.157-8443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20TLS"
-        },
-        {
-          "protocol": "trojan",
-          "port": 80,
-          "tls": false,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20NTLS"
-        },
-        {
-          "protocol": "vless",
-          "port": 80,
-          "tls": false,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=none&sni=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20NTLS"
-        },
-        {
-          "protocol": "ss",
-          "port": 80,
-          "tls": false,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F103.119.218.157-8443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20NTLS"
         }
       ]
     },
@@ -2486,6 +2486,51 @@
     },
     {
       "index": 56,
+      "proxyIP": "103.119.218.157",
+      "proxyPort": "8443",
+      "country": "SG",
+      "org": "Hawk Host Inc",
+      "configs": [
+        {
+          "protocol": "trojan",
+          "port": 443,
+          "tls": true,
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20TLS"
+        },
+        {
+          "protocol": "vless",
+          "port": 443,
+          "tls": true,
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20TLS"
+        },
+        {
+          "protocol": "ss",
+          "port": 443,
+          "tls": true,
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F103.119.218.157-8443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20TLS"
+        },
+        {
+          "protocol": "trojan",
+          "port": 80,
+          "tls": false,
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20NTLS"
+        },
+        {
+          "protocol": "vless",
+          "port": 80,
+          "tls": false,
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&security=none&sni=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20NTLS"
+        },
+        {
+          "protocol": "ss",
+          "port": 80,
+          "tls": false,
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F103.119.218.157-8443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F103.119.218.157-8443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Hawk%20Host%20Inc%20WS%20NTLS"
+        }
+      ]
+    },
+    {
+      "index": 57,
       "proxyIP": "103.136.68.176",
       "proxyPort": "2053",
       "country": "SG",
@@ -2530,7 +2575,7 @@
       ]
     },
     {
-      "index": 57,
+      "index": 58,
       "proxyIP": "103.149.46.74",
       "proxyPort": "443",
       "country": "SG",
@@ -2575,7 +2620,7 @@
       ]
     },
     {
-      "index": 58,
+      "index": 59,
       "proxyIP": "103.167.151.85",
       "proxyPort": "8443",
       "country": "SG",
@@ -2620,7 +2665,7 @@
       ]
     },
     {
-      "index": 59,
+      "index": 60,
       "proxyIP": "103.170.217.60",
       "proxyPort": "443",
       "country": "SG",
@@ -2665,7 +2710,7 @@
       ]
     },
     {
-      "index": 60,
+      "index": 61,
       "proxyIP": "103.179.44.78",
       "proxyPort": "443",
       "country": "SG",
@@ -2710,7 +2755,7 @@
       ]
     },
     {
-      "index": 61,
+      "index": 62,
       "proxyIP": "103.195.188.206",
       "proxyPort": "443",
       "country": "SG",
@@ -2755,7 +2800,7 @@
       ]
     },
     {
-      "index": 62,
+      "index": 63,
       "proxyIP": "103.195.190.134",
       "proxyPort": "443",
       "country": "SG",
@@ -2800,7 +2845,7 @@
       ]
     },
     {
-      "index": 63,
+      "index": 64,
       "proxyIP": "103.195.190.94",
       "proxyPort": "443",
       "country": "SG",
@@ -2845,7 +2890,7 @@
       ]
     },
     {
-      "index": 64,
+      "index": 65,
       "proxyIP": "103.195.191.118",
       "proxyPort": "443",
       "country": "SG",
@@ -2890,7 +2935,7 @@
       ]
     },
     {
-      "index": 65,
+      "index": 66,
       "proxyIP": "103.195.191.121",
       "proxyPort": "443",
       "country": "SG",
@@ -2935,7 +2980,7 @@
       ]
     },
     {
-      "index": 66,
+      "index": 67,
       "proxyIP": "103.195.191.240",
       "proxyPort": "443",
       "country": "SG",
@@ -2980,7 +3025,7 @@
       ]
     },
     {
-      "index": 67,
+      "index": 68,
       "proxyIP": "103.248.228.240",
       "proxyPort": "443",
       "country": "SG",
@@ -3025,7 +3070,7 @@
       ]
     },
     {
-      "index": 68,
+      "index": 69,
       "proxyIP": "103.25.202.102",
       "proxyPort": "443",
       "country": "SG",
@@ -3070,7 +3115,7 @@
       ]
     },
     {
-      "index": 69,
+      "index": 70,
       "proxyIP": "103.25.202.25",
       "proxyPort": "443",
       "country": "SG",
@@ -3115,7 +3160,7 @@
       ]
     },
     {
-      "index": 70,
+      "index": 71,
       "proxyIP": "103.253.145.105",
       "proxyPort": "443",
       "country": "SG",
@@ -3160,7 +3205,7 @@
       ]
     },
     {
-      "index": 71,
+      "index": 72,
       "proxyIP": "103.6.169.135",
       "proxyPort": "443",
       "country": "SG",
@@ -3205,7 +3250,7 @@
       ]
     },
     {
-      "index": 72,
+      "index": 73,
       "proxyIP": "103.72.62.113",
       "proxyPort": "443",
       "country": "SG",
@@ -3250,7 +3295,7 @@
       ]
     },
     {
-      "index": 73,
+      "index": 74,
       "proxyIP": "104.234.174.213",
       "proxyPort": "443",
       "country": "SG",
@@ -3295,7 +3340,7 @@
       ]
     },
     {
-      "index": 74,
+      "index": 75,
       "proxyIP": "104.234.174.220",
       "proxyPort": "443",
       "country": "SG",
@@ -3340,7 +3385,7 @@
       ]
     },
     {
-      "index": 75,
+      "index": 76,
       "proxyIP": "104.248.152.221",
       "proxyPort": "443",
       "country": "SG",
@@ -3385,7 +3430,7 @@
       ]
     },
     {
-      "index": 76,
+      "index": 77,
       "proxyIP": "104.248.153.206",
       "proxyPort": "443",
       "country": "SG",
@@ -3430,7 +3475,7 @@
       ]
     },
     {
-      "index": 77,
+      "index": 78,
       "proxyIP": "104.248.158.149",
       "proxyPort": "443",
       "country": "SG",
@@ -3475,7 +3520,7 @@
       ]
     },
     {
-      "index": 78,
+      "index": 79,
       "proxyIP": "104.64.192.116",
       "proxyPort": "443",
       "country": "SG",
@@ -3520,7 +3565,7 @@
       ]
     },
     {
-      "index": 79,
+      "index": 80,
       "proxyIP": "109.176.19.176",
       "proxyPort": "443",
       "country": "SG",
@@ -3565,7 +3610,7 @@
       ]
     },
     {
-      "index": 80,
+      "index": 81,
       "proxyIP": "109.176.19.244",
       "proxyPort": "8443",
       "country": "SG",
@@ -3610,7 +3655,7 @@
       ]
     },
     {
-      "index": 81,
+      "index": 82,
       "proxyIP": "116.251.216.12",
       "proxyPort": "8443",
       "country": "SG",
@@ -3655,7 +3700,7 @@
       ]
     },
     {
-      "index": 82,
+      "index": 83,
       "proxyIP": "116.251.216.23",
       "proxyPort": "8443",
       "country": "SG",
@@ -3696,51 +3741,6 @@
           "port": 80,
           "tls": false,
           "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F116.251.216.23-8443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F116.251.216.23-8443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20SGGS%20WS%20NTLS"
-        }
-      ]
-    },
-    {
-      "index": 83,
-      "proxyIP": "116.251.217.107",
-      "proxyPort": "443",
-      "country": "SG",
-      "org": "SGGS",
-      "configs": [
-        {
-          "protocol": "trojan",
-          "port": 443,
-          "tls": true,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F116.251.217.107-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20SGGS%20WS%20TLS"
-        },
-        {
-          "protocol": "vless",
-          "port": 443,
-          "tls": true,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F116.251.217.107-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20SGGS%20WS%20TLS"
-        },
-        {
-          "protocol": "ss",
-          "port": 443,
-          "tls": true,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F116.251.217.107-443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F116.251.217.107-443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20SGGS%20WS%20TLS"
-        },
-        {
-          "protocol": "trojan",
-          "port": 80,
-          "tls": false,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F116.251.217.107-443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20SGGS%20WS%20NTLS"
-        },
-        {
-          "protocol": "vless",
-          "port": 80,
-          "tls": false,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F116.251.217.107-443&security=none&sni=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20SGGS%20WS%20NTLS"
-        },
-        {
-          "protocol": "ss",
-          "port": 80,
-          "tls": false,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F116.251.217.107-443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F116.251.217.107-443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20SGGS%20WS%20NTLS"
         }
       ]
     },
@@ -5456,51 +5456,6 @@
     },
     {
       "index": 122,
-      "proxyIP": "13.212.210.118",
-      "proxyPort": "443",
-      "country": "SG",
-      "org": "Amazoncom Inc",
-      "configs": [
-        {
-          "protocol": "trojan",
-          "port": 443,
-          "tls": true,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F13.212.210.118-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Amazoncom%20Inc%20WS%20TLS"
-        },
-        {
-          "protocol": "vless",
-          "port": 443,
-          "tls": true,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F13.212.210.118-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Amazoncom%20Inc%20WS%20TLS"
-        },
-        {
-          "protocol": "ss",
-          "port": 443,
-          "tls": true,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F13.212.210.118-443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F13.212.210.118-443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Amazoncom%20Inc%20WS%20TLS"
-        },
-        {
-          "protocol": "trojan",
-          "port": 80,
-          "tls": false,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F13.212.210.118-443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Amazoncom%20Inc%20WS%20NTLS"
-        },
-        {
-          "protocol": "vless",
-          "port": 80,
-          "tls": false,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F13.212.210.118-443&security=none&sni=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Amazoncom%20Inc%20WS%20NTLS"
-        },
-        {
-          "protocol": "ss",
-          "port": 80,
-          "tls": false,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F13.212.210.118-443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F13.212.210.118-443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Amazoncom%20Inc%20WS%20NTLS"
-        }
-      ]
-    },
-    {
-      "index": 123,
       "proxyIP": "13.212.31.121",
       "proxyPort": "443",
       "country": "SG",
@@ -5545,7 +5500,7 @@
       ]
     },
     {
-      "index": 124,
+      "index": 123,
       "proxyIP": "13.212.33.11",
       "proxyPort": "443",
       "country": "SG",
@@ -5590,7 +5545,7 @@
       ]
     },
     {
-      "index": 125,
+      "index": 124,
       "proxyIP": "13.212.33.99",
       "proxyPort": "443",
       "country": "SG",
@@ -5635,7 +5590,7 @@
       ]
     },
     {
-      "index": 126,
+      "index": 125,
       "proxyIP": "13.213.218.87",
       "proxyPort": "443",
       "country": "SG",
@@ -5680,7 +5635,7 @@
       ]
     },
     {
-      "index": 127,
+      "index": 126,
       "proxyIP": "13.213.232.214",
       "proxyPort": "443",
       "country": "SG",
@@ -5725,7 +5680,7 @@
       ]
     },
     {
-      "index": 128,
+      "index": 127,
       "proxyIP": "13.213.38.199",
       "proxyPort": "443",
       "country": "SG",
@@ -5770,7 +5725,7 @@
       ]
     },
     {
-      "index": 129,
+      "index": 128,
       "proxyIP": "13.215.182.29",
       "proxyPort": "443",
       "country": "SG",
@@ -5815,7 +5770,7 @@
       ]
     },
     {
-      "index": 130,
+      "index": 129,
       "proxyIP": "13.215.195.63",
       "proxyPort": "443",
       "country": "SG",
@@ -5860,7 +5815,7 @@
       ]
     },
     {
-      "index": 131,
+      "index": 130,
       "proxyIP": "13.215.229.246",
       "proxyPort": "443",
       "country": "SG",
@@ -5905,7 +5860,7 @@
       ]
     },
     {
-      "index": 132,
+      "index": 131,
       "proxyIP": "13.215.95.201",
       "proxyPort": "443",
       "country": "SG",
@@ -5950,7 +5905,7 @@
       ]
     },
     {
-      "index": 133,
+      "index": 132,
       "proxyIP": "13.228.2.85",
       "proxyPort": "443",
       "country": "SG",
@@ -5995,7 +5950,7 @@
       ]
     },
     {
-      "index": 134,
+      "index": 133,
       "proxyIP": "13.250.129.244",
       "proxyPort": "443",
       "country": "SG",
@@ -6040,7 +5995,7 @@
       ]
     },
     {
-      "index": 135,
+      "index": 134,
       "proxyIP": "13.250.131.37",
       "proxyPort": "443",
       "country": "SG",
@@ -6085,7 +6040,7 @@
       ]
     },
     {
-      "index": 136,
+      "index": 135,
       "proxyIP": "13.250.17.35",
       "proxyPort": "443",
       "country": "SG",
@@ -6130,7 +6085,7 @@
       ]
     },
     {
-      "index": 137,
+      "index": 136,
       "proxyIP": "13.250.78.140",
       "proxyPort": "443",
       "country": "SG",
@@ -6175,7 +6130,7 @@
       ]
     },
     {
-      "index": 138,
+      "index": 137,
       "proxyIP": "13.251.168.66",
       "proxyPort": "8443",
       "country": "SG",
@@ -6220,7 +6175,7 @@
       ]
     },
     {
-      "index": 139,
+      "index": 138,
       "proxyIP": "13.251.248.21",
       "proxyPort": "443",
       "country": "SG",
@@ -6265,7 +6220,7 @@
       ]
     },
     {
-      "index": 140,
+      "index": 139,
       "proxyIP": "130.94.44.210",
       "proxyPort": "443",
       "country": "SG",
@@ -6310,47 +6265,92 @@
       ]
     },
     {
-      "index": 141,
-      "proxyIP": "134.185.85.155",
-      "proxyPort": "443",
+      "index": 140,
+      "proxyIP": "132.243.238.192",
+      "proxyPort": "8443",
       "country": "SG",
-      "org": "Cloudflare Inc",
+      "org": "Baxet Group Inc",
       "configs": [
         {
           "protocol": "trojan",
           "port": 443,
           "tls": true,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20Inc%20WS%20TLS"
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F132.243.238.192-8443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Baxet%20Group%20Inc%20WS%20TLS"
         },
         {
           "protocol": "vless",
           "port": 443,
           "tls": true,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20Inc%20WS%20TLS"
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F132.243.238.192-8443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Baxet%20Group%20Inc%20WS%20TLS"
         },
         {
           "protocol": "ss",
           "port": 443,
           "tls": true,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F134.185.85.155-443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20Inc%20WS%20TLS"
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F132.243.238.192-8443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F132.243.238.192-8443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Baxet%20Group%20Inc%20WS%20TLS"
         },
         {
           "protocol": "trojan",
           "port": 80,
           "tls": false,
-          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20Inc%20WS%20NTLS"
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F132.243.238.192-8443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Baxet%20Group%20Inc%20WS%20NTLS"
         },
         {
           "protocol": "vless",
           "port": 80,
           "tls": false,
-          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=none&sni=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20Inc%20WS%20NTLS"
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F132.243.238.192-8443&security=none&sni=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Baxet%20Group%20Inc%20WS%20NTLS"
         },
         {
           "protocol": "ss",
           "port": 80,
           "tls": false,
-          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F134.185.85.155-443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20Inc%20WS%20NTLS"
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F132.243.238.192-8443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F132.243.238.192-8443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Baxet%20Group%20Inc%20WS%20NTLS"
+        }
+      ]
+    },
+    {
+      "index": 141,
+      "proxyIP": "134.185.85.155",
+      "proxyPort": "443",
+      "country": "SG",
+      "org": "Cloudflare London LLC",
+      "configs": [
+        {
+          "protocol": "trojan",
+          "port": 443,
+          "tls": true,
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20London%20LLC%20WS%20TLS"
+        },
+        {
+          "protocol": "vless",
+          "port": 443,
+          "tls": true,
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20London%20LLC%20WS%20TLS"
+        },
+        {
+          "protocol": "ss",
+          "port": 443,
+          "tls": true,
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:443?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&plugin=v2ray-plugin%3Btls%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F134.185.85.155-443%3Bhost%3Dcf.bebas11.workers.dev&security=tls&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20London%20LLC%20WS%20TLS"
+        },
+        {
+          "protocol": "trojan",
+          "port": 80,
+          "tls": false,
+          "uri": "trojan://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20London%20LLC%20WS%20NTLS"
+        },
+        {
+          "protocol": "vless",
+          "port": 80,
+          "tls": false,
+          "uri": "vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&security=none&sni=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20London%20LLC%20WS%20NTLS"
+        },
+        {
+          "protocol": "ss",
+          "port": 80,
+          "tls": false,
+          "uri": "ss://bm9uZTpmNDdhYzEwYi01OGNjLTQzNzItYTU2Ny0wZTAyYjJjM2Q0Nzk%3D@cf.bebas11.workers.dev:80?encryption=none&type=ws&host=cf.bebas11.workers.dev&path=%2F134.185.85.155-443&plugin=v2ray-plugin%3Bmux%3D0%3Bmode%3Dwebsocket%3Bpath%3D%2F134.185.85.155-443%3Bhost%3Dcf.bebas11.workers.dev&security=none&sni=cf.bebas11.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20Cloudflare%20London%20LLC%20WS%20NTLS"
         }
       ]
     },
